@@ -6,9 +6,8 @@
 
 #### useState
 
-1. Birthday Reminder *** COMPLETED ***
-    https://birthday-reminder-react-oleg.netlify.app/
-    
+1. Birthday Reminder **_ https://birthday-reminder-react-oleg.netlify.app/ _**
+
 #### useEffect and Conditional Rendering
 
 2. Tours
