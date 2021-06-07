@@ -6,12 +6,12 @@
 
 #### useState
 
-1. Birthday Reminder ** https://birthday-reminder-react-tielushko.netlify.app/ **
+1. Birthday Reminder **https://birthday-reminder-react-tielushko.netlify.app**
 
 #### useEffect and Conditional Rendering
 
-2. Tours ** https://tours-react-tielushko.netlify.app **
-3. Reviews
+2. Tours **https://tours-react-tielushko.netlify.app**
+3. Reviews **https://reviews-react-tielushko.netlify.app**
 4. Questions
 5. Menu
 6. Tabs
